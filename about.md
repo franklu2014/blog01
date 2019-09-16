@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I was a software engineer in Seattle for two years.  The majority of my work is done in Scala using AWS resources such as S3, Lambda, Dynamo DB, API Gateway.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Now I am studying for a Master of Data Science degree at University of British Columbia.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[franklu@live.ca](mailto:franklu@live.ca)
