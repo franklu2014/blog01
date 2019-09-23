@@ -5,12 +5,12 @@ title: This is my first post!
 
 ### Bayes' Theorem  
 Assuming there is a bag of ten-thousand red and blue balls for prize draw. The only information we have is as below:  
-- 1\% of the balls are inscribed with a special mark and will award the player $2000.  The rest 99% of balls are not inscribed and awarding nothing.  
-- 80\% of the inscribed balls are painted in red, and 90\% of the non-inscribed balls are in blue.  
+- 1% of the balls are inscribed with a special mark and will award the player $2000.  The rest 99% of balls are not inscribed and awarding nothing.  
+- 80% of the inscribed balls are painted in red, and 90% of the non-inscribed balls are in blue.  
   
 Every player will be presented with the color of a ball drawn by the game host, along with an upfront prize of $1000.  Now, if you are a player and see a red ball, should you walk away with the upfront prize or take the chance and fully reveal the ball?  
   
-On the nutshell, 80% of the inscribed balls are red, 90% of the non-inscribed balls are blue, and we are seeing a red ball.  The chance of winning ${\$}$2000 seems promising, and we shouldn't be satisfied with only $1000, right?  Well, according to Bayes' Theorem, the probability for a red ball happening to be inscribed might not as high as it appears.
+On the nutshell, 80% of the inscribed balls are red, 90% of the non-inscribed balls are blue, and we are seeing a red ball.  The chance of winning $\$ $2000 seems promising, and we shouldn't be satisfied with only $1000, right?  Well, according to Bayes' Theorem, the probability for a red ball happening to be inscribed might not as high as it appears.
   
 Bayes' Theorem is very helpful in building intelligent systems.  For example, a smart defect detector installed on a production line can be used for finding defective items more efficiently. Bayes' Theorem also has presence in many Machine Learning models used for filtering out spam emails or recognizing human speech.  It finds us the true probability from an observation and makes an essential part in decision making.
 
