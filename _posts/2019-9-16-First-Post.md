@@ -7,9 +7,14 @@ title: This is my first post!
 Assuming there is a bag of ten-thousand balls for prize draw. The rules of the game are as below:  
 - There are only red and blue balls
 - 1% of the balls are inscribed with a special mark and will award the player $2000.  The rest 99% of balls are not inscribed and awarding nothing.  
+<<<<<<< HEAD
 - 80% of the inscribed balls are red, and 10% of the non-inscribed balls are red.  
 - The host draws a ball and shows its color and the color only to the player.  
 - The player can choose between a $500 upfront prize OR checking if the ball wins.  
+=======
+- 80% of the inscribed balls are painted in red, and 90% of the non-inscribed balls are in blue.  
+  $a^2 + b^2 = c^2$
+>>>>>>> bcafb55973394b792db2173f90a77373cf22074e
   
 Now, if you are a player and see a red ball, should you walk away with the upfront prize or take the chance and fully reveal the ball?  
 
