@@ -1,0 +1,6 @@
+alias gl='git log --graph --oneline --all'
+alias gitst='git status'
+alias la='ls -a'
+alias lah='ls -ahl'
+alias nightlight='gsettings set org.gnome.settings-daemon.plugins.color night-light-temperature'
+alias susp='systemctl suspend'
